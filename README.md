@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aliseker
-- 👀 I’m interested in internship
-- 🌱 I’m currently learning CSS
+- 👀 I’m interested in become junior developer
+- 🌱 I’m currently making projects with HTML, CSS and JS; i also have knowledge of this technologies: Python(with DSA) C PHP SQL.
 - 📫 How to reach me alisekergibi@gmail.com or alisekergibi on Instagram
 
 <!---
