@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @aliseker
-- 👀 I’m interested in become junior developer
-- 🌱 I’m currently making projects with HTML, CSS and JS; i also have knowledge of this technologies: Python(with DSA) C PHP SQL.
-- 📫 How to reach me alisekergibi@gmail.com or alisekergibi on Instagram
+<!-- Başlık ve animasyon / banner -->
+<h1 align="center">
+  <img src="https://yourdomain.com/banner.gif" alt="Banner" />
+</h1>
 
-<!---
-aliseker/aliseker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Hi 👋, I'm **Ali Şeker**</h2>
+<p align="center">
+  <a href="https://github.com/aliseker"><img src="https://komarev.com/ghpvc/?username=aliseker&label=Profile%20views&color=blue" alt="profile views"/></a>
+  <br>
+  Aspiring **Backend Developer** | .NET • Python • C • PHP • SQL
+</p>
+
+---
+
+### 🧰 Tech Stack & Tools  
