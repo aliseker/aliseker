@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Ali Şeker</span></h1>
-<h3 align="center">💻 Aspiring Backend Developer | .NET • Python • C • SQL</h3>
+<h3 align="center">💻Backend Developer | .NET • Python • C • SQL</h3>
 
 ---
 
