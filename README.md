@@ -1,12 +1,12 @@
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Ali Şeker</span></h1>
-<h3 align="center">💻Backend Developer | .NET • Python • C • SQL • Javascript</h3>
+<h1 align="center"> Hey, I'm <span style="color:#58a6ff">Ali Şeker</span></h1>
+<h3 align="center">Backend Developer | .NET • Python • C • SQL • Javascript</h3>
 
 ---
 
-### 🧠 About Me
-- 🎓 Computer Engineering student passionate about **backend systems** and **clean architecture**  
-- 🔭 Currently building projects with **.NET**, **HTML**, **CSS**, **JavaScript**  
-- 🧩 Also exploring **Python (with DSA)**, **C**, **PHP**, and **SQL**  
+###  About Me
+-  Computer Engineering student passionate about **backend systems** and **clean architecture**  
+-  Currently building projects with **.NET**, **MsSQL**, **Next.JS**, **Python**  
+-  Also exploring **OpenCV**, **YOLO** and **AI**  
 
 ---
 
