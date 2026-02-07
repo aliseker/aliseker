@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm <span style="color:#58a6ff">Ali Şeker</span></h1>
-<h3 align="center">💻Backend Developer | .NET • Python • C • SQL</h3>
+<h3 align="center">💻Backend Developer | .NET • Python • C • SQL • Javascript</h3>
 
 ---
 
@@ -7,7 +7,6 @@
 - 🎓 Computer Engineering student passionate about **backend systems** and **clean architecture**  
 - 🔭 Currently building projects with **.NET**, **HTML**, **CSS**, **JavaScript**  
 - 🧩 Also exploring **Python (with DSA)**, **C**, **PHP**, and **SQL**  
-- 🚀 Goal: Becoming a remote **backend developer** abroad  
 
 ---
 
